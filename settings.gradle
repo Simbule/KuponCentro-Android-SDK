@@ -1,0 +1,3 @@
+include ':KuponCentro'
+include ':app'
+rootProject.name = "KuponCentroSdk"
